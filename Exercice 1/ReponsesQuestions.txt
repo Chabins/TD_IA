@@ -1,4 +1,4 @@
-1- Comment identifier toutes les épreuves d’une liste qui sont en conflit avec une épreuve donnée ? 
+**1- Comment identifier toutes les épreuves d’une liste qui sont en conflit avec une épreuve donnée ?**
 
     Pour identifier les épreuves qui sont en conflit avec l'épreuve X choisi on va juste regarder
     les heures de debut des autres épreuves et comparer a l'heure de fin de l'épreuve X 
